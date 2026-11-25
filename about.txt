@@ -1,0 +1,43 @@
+# CAMPUSCONNECT
+## College Event Management and Registration System
+
+### 1. Project Description
+CampusConnect is a menu-driven Python application developed to manage college events and student registrations.
+
+It allows students to view upcoming events, search events by category, register for events and check their registrations.
+
+The admin can add new events, view registrations, remove registrations and remove events.
+
+### 2. Technologies Used
+- Python
+- CSV files
+- VS Code
+
+### 3. Main Features
+1. Student Portal
+2. View All Events
+3. Search Events by Category
+4. Register for Events
+5. View Registrations
+6. Admin Login
+7. Add New Events
+8. Remove Registrations
+9. Remove Events
+
+### 4. Files Used
+- main.py – Contains the Python program.
+- events.csv – Stores event information.
+- registration.csv – Stores student registration information.
+- about.txt – Contains project details.
+
+### 5. How to Run the Project
+1. Open the CampusConnect folder in VS Code.
+2. Open main.py.
+3. Run the Python program.
+4. Select an option from the main menu.
+
+### 6. Admin Login
+Password: admin123
+
+### 7. Conclusion
+CampusConnect provides a simple way to manage college events and student registrations using Python and CSV file handling.
